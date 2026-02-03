@@ -4,8 +4,8 @@ import styles from "./page.module.css"
 
 
 export const metadata: Metadata = {
-  title: "Умный Todo List",
-  description: "Тестовое задание на Next.js 14",
+  title: "Список дел",
+  description: "Тестовое задание",
 };
 
 export default function RootLayout({
